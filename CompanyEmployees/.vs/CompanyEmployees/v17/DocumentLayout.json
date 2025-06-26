@@ -1,7 +1,48 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\manh1\\source\\repos\\CompanyEmployees\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|solutionrelative:companyemployees\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|solutionrelative:companyemployees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|solutionrelative:companyemployees\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|solutionrelative:companyemployees\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees\\logs\\log-20250626.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|solutionrelative:companyemployees\\logs\\log-20250626.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129701E3-4F7A-4CB8-BF3B-0E7A41E84279}|LoggingService\\LoggingService.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\loggingservice\\iloggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129701E3-4F7A-4CB8-BF3B-0E7A41E84279}|LoggingService\\LoggingService.csproj|solutionrelative:loggingservice\\iloggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129701E3-4F7A-4CB8-BF3B-0E7A41E84279}|LoggingService\\LoggingService.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\loggingservice\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129701E3-4F7A-4CB8-BF3B-0E7A41E84279}|LoggingService\\LoggingService.csproj|solutionrelative:loggingservice\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|solutionrelative:companyemployees\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees\\companyemployees.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|solutionrelative:companyemployees\\companyemployees.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|solutionrelative:companyemployees\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +50,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "log-20250626.txt",
+              "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\logs\\log-20250626.txt",
+              "RelativeDocumentMoniker": "CompanyEmployees\\logs\\log-20250626.txt",
+              "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\logs\\log-20250626.txt",
+              "RelativeToolTip": "CompanyEmployees\\logs\\log-20250626.txt",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-26T08:46:24.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CompanyEmployees.http",
+              "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.http",
+              "RelativeDocumentMoniker": "CompanyEmployees\\CompanyEmployees.http",
+              "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.http",
+              "RelativeToolTip": "CompanyEmployees\\CompanyEmployees.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-26T07:30:52.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\appsettings.json",
+              "RelativeDocumentMoniker": "CompanyEmployees\\appsettings.json",
+              "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\appsettings.json",
+              "RelativeToolTip": "CompanyEmployees\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-26T07:20:00.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoggerManager.cs",
+              "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\LoggingService\\LoggerManager.cs",
+              "RelativeDocumentMoniker": "LoggingService\\LoggerManager.cs",
+              "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\LoggingService\\LoggerManager.cs",
+              "RelativeToolTip": "LoggingService\\LoggerManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:13:51.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILoggerManager.cs",
+              "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\LoggingService\\ILoggerManager.cs",
+              "RelativeDocumentMoniker": "LoggingService\\ILoggerManager.cs",
+              "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\LoggingService\\ILoggerManager.cs",
+              "RelativeToolTip": "LoggingService\\ILoggerManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:57:35.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "CompanyEmployees\\WeatherForecast.cs",
+              "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\WeatherForecast.cs",
+              "RelativeToolTip": "CompanyEmployees\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:32:21.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CompanyEmployees\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CompanyEmployees\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwBoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:15:37.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CompanyEmployees\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CompanyEmployees\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-25T16:13:26.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "CompanyEmployees\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "CompanyEmployees\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:11:44.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\Program.cs",
+              "RelativeDocumentMoniker": "CompanyEmployees\\Program.cs",
+              "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\Program.cs",
+              "RelativeToolTip": "CompanyEmployees\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:11:22.414Z",
+              "EditorCaption": ""
             }
           ]
         }

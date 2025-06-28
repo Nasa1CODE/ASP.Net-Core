@@ -89,7 +89,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\Share\\Share.csproj": {
+                "projectPath": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\Share\\Share.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -177,6 +181,83 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Infrastructure.Presentation\\CompanyEmployees.Infrastructure.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Infrastructure.Presentation\\CompanyEmployees.Infrastructure.Presentation.csproj",
+        "projectName": "CompanyEmployees.Infrastructure.Presentation",
+        "projectPath": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Infrastructure.Presentation\\CompanyEmployees.Infrastructure.Presentation.csproj",
+        "packagesPath": "C:\\Users\\manh1\\.nuget\\packages\\",
+        "outputPath": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Infrastructure.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\manh1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Core.Services.Abstractions\\CompanyEmployees.Core.Services.Abstractions.csproj": {
+                "projectPath": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Core.Services.Abstractions\\CompanyEmployees.Core.Services.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -304,6 +385,9 @@
               "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Core.Services\\CompanyEmployees.Core.Services.csproj": {
                 "projectPath": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Core.Services\\CompanyEmployees.Core.Services.csproj"
               },
+              "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Infrastructure.Presentation\\CompanyEmployees.Infrastructure.Presentation.csproj": {
+                "projectPath": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Infrastructure.Presentation\\CompanyEmployees.Infrastructure.Presentation.csproj"
+              },
               "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Intrastructure.Persistence\\CompanyEmployees.Intrastructure.Persistence.csproj": {
                 "projectPath": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Intrastructure.Persistence\\CompanyEmployees.Intrastructure.Persistence.csproj"
               },
@@ -421,6 +505,67 @@
               "version": "[8.0.0, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\Share\\Share.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\Share\\Share.csproj",
+        "projectName": "Share",
+        "projectPath": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\Share\\Share.csproj",
+        "packagesPath": "C:\\Users\\manh1\\.nuget\\packages\\",
+        "outputPath": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\Share\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\manh1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",

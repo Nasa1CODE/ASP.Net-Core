@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|solutionrelative:companyemployees\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|solutionrelative:companyemployees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|solutionrelative:companyemployees\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|solutionrelative:companyemployees\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0770FCF7-3A00-4F0D-AC8B-AAF6FC41FBC7}|CompanyEmployees.Core.Services\\CompanyEmployees.Core.Services.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees.core.services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0770FCF7-3A00-4F0D-AC8B-AAF6FC41FBC7}|CompanyEmployees.Core.Services\\CompanyEmployees.Core.Services.csproj|solutionrelative:companyemployees.core.services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0770FCF7-3A00-4F0D-AC8B-AAF6FC41FBC7}|CompanyEmployees.Core.Services\\CompanyEmployees.Core.Services.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees.core.services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,52 +23,88 @@
       "RelativeMoniker": "D:0:0:{0770FCF7-3A00-4F0D-AC8B-AAF6FC41FBC7}|CompanyEmployees.Core.Services\\CompanyEmployees.Core.Services.csproj|solutionrelative:companyemployees.core.services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0770FCF7-3A00-4F0D-AC8B-AAF6FC41FBC7}|CompanyEmployees.Core.Services\\CompanyEmployees.Core.Services.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees.core.services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0770FCF7-3A00-4F0D-AC8B-AAF6FC41FBC7}|CompanyEmployees.Core.Services\\CompanyEmployees.Core.Services.csproj|solutionrelative:companyemployees.core.services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62472F15-F128-4B4A-9CCA-E25D75FE726B}|CompanyEmployees.Core.Services.Abstractions\\CompanyEmployees.Core.Services.Abstractions.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees.core.services.abstractions\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62472F15-F128-4B4A-9CCA-E25D75FE726B}|CompanyEmployees.Core.Services.Abstractions\\CompanyEmployees.Core.Services.Abstractions.csproj|solutionrelative:companyemployees.core.services.abstractions\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{495BF0C2-615E-47A0-88CB-C23EB44778C4}|CompanyEmployees.Intrastructure.Persistence\\CompanyEmployees.Intrastructure.Persistence.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees.intrastructure.persistence\\repositories\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495BF0C2-615E-47A0-88CB-C23EB44778C4}|CompanyEmployees.Intrastructure.Persistence\\CompanyEmployees.Intrastructure.Persistence.csproj|solutionrelative:companyemployees.intrastructure.persistence\\repositories\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62472F15-F128-4B4A-9CCA-E25D75FE726B}|CompanyEmployees.Core.Services.Abstractions\\CompanyEmployees.Core.Services.Abstractions.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees.core.services.abstractions\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62472F15-F128-4B4A-9CCA-E25D75FE726B}|CompanyEmployees.Core.Services.Abstractions\\CompanyEmployees.Core.Services.Abstractions.csproj|solutionrelative:companyemployees.core.services.abstractions\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{495BF0C2-615E-47A0-88CB-C23EB44778C4}|CompanyEmployees.Intrastructure.Persistence\\CompanyEmployees.Intrastructure.Persistence.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees.intrastructure.persistence\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{495BF0C2-615E-47A0-88CB-C23EB44778C4}|CompanyEmployees.Intrastructure.Persistence\\CompanyEmployees.Intrastructure.Persistence.csproj|solutionrelative:companyemployees.intrastructure.persistence\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{495BF0C2-615E-47A0-88CB-C23EB44778C4}|CompanyEmployees.Intrastructure.Persistence\\CompanyEmployees.Intrastructure.Persistence.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees.intrastructure.persistence\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{495BF0C2-615E-47A0-88CB-C23EB44778C4}|CompanyEmployees.Intrastructure.Persistence\\CompanyEmployees.Intrastructure.Persistence.csproj|solutionrelative:companyemployees.intrastructure.persistence\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B060B3E-AC94-4F3A-8584-DC33176F77D8}|CompanyEmployees.Core.Domain\\CompanyEmployees.Core.Domain.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees.core.domain\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B060B3E-AC94-4F3A-8584-DC33176F77D8}|CompanyEmployees.Core.Domain\\CompanyEmployees.Core.Domain.csproj|solutionrelative:companyemployees.core.domain\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B060B3E-AC94-4F3A-8584-DC33176F77D8}|CompanyEmployees.Core.Domain\\CompanyEmployees.Core.Domain.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees.core.domain\\repositories\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B060B3E-AC94-4F3A-8584-DC33176F77D8}|CompanyEmployees.Core.Domain\\CompanyEmployees.Core.Domain.csproj|solutionrelative:companyemployees.core.domain\\repositories\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2043052D-C62E-4F0D-89DB-F7602A7C2867}|CompanyEmployees.Infrastructure.Presentation\\CompanyEmployees.Infrastructure.Presentation.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees.infrastructure.presentation\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2043052D-C62E-4F0D-89DB-F7602A7C2867}|CompanyEmployees.Infrastructure.Presentation\\CompanyEmployees.Infrastructure.Presentation.csproj|solutionrelative:companyemployees.infrastructure.presentation\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{495BF0C2-615E-47A0-88CB-C23EB44778C4}|CompanyEmployees.Intrastructure.Persistence\\CompanyEmployees.Intrastructure.Persistence.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees.intrastructure.persistence\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{495BF0C2-615E-47A0-88CB-C23EB44778C4}|CompanyEmployees.Intrastructure.Persistence\\CompanyEmployees.Intrastructure.Persistence.csproj|solutionrelative:companyemployees.intrastructure.persistence\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{495BF0C2-615E-47A0-88CB-C23EB44778C4}|CompanyEmployees.Intrastructure.Persistence\\CompanyEmployees.Intrastructure.Persistence.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees.intrastructure.persistence\\repositories\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{495BF0C2-615E-47A0-88CB-C23EB44778C4}|CompanyEmployees.Intrastructure.Persistence\\CompanyEmployees.Intrastructure.Persistence.csproj|solutionrelative:companyemployees.intrastructure.persistence\\repositories\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2043052D-C62E-4F0D-89DB-F7602A7C2867}|CompanyEmployees.Infrastructure.Presentation\\CompanyEmployees.Infrastructure.Presentation.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees.infrastructure.presentation\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2043052D-C62E-4F0D-89DB-F7602A7C2867}|CompanyEmployees.Infrastructure.Presentation\\CompanyEmployees.Infrastructure.Presentation.csproj|solutionrelative:companyemployees.infrastructure.presentation\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B060B3E-AC94-4F3A-8584-DC33176F77D8}|CompanyEmployees.Core.Domain\\CompanyEmployees.Core.Domain.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees.core.domain\\repositories\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B060B3E-AC94-4F3A-8584-DC33176F77D8}|CompanyEmployees.Core.Domain\\CompanyEmployees.Core.Domain.csproj|solutionrelative:companyemployees.core.domain\\repositories\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129701E3-4F7A-4CB8-BF3B-0E7A41E84279}|LoggingService\\LoggingService.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\loggingservice\\iloggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129701E3-4F7A-4CB8-BF3B-0E7A41E84279}|LoggingService\\LoggingService.csproj|solutionrelative:loggingservice\\iloggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129701E3-4F7A-4CB8-BF3B-0E7A41E84279}|LoggingService\\LoggingService.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\loggingservice\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129701E3-4F7A-4CB8-BF3B-0E7A41E84279}|LoggingService\\LoggingService.csproj|solutionrelative:loggingservice\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495BF0C2-615E-47A0-88CB-C23EB44778C4}|CompanyEmployees.Intrastructure.Persistence\\CompanyEmployees.Intrastructure.Persistence.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees.intrastructure.persistence\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495BF0C2-615E-47A0-88CB-C23EB44778C4}|CompanyEmployees.Intrastructure.Persistence\\CompanyEmployees.Intrastructure.Persistence.csproj|solutionrelative:companyemployees.intrastructure.persistence\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{495BF0C2-615E-47A0-88CB-C23EB44778C4}|CompanyEmployees.Intrastructure.Persistence\\CompanyEmployees.Intrastructure.Persistence.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees.intrastructure.persistence\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{495BF0C2-615E-47A0-88CB-C23EB44778C4}|CompanyEmployees.Intrastructure.Persistence\\CompanyEmployees.Intrastructure.Persistence.csproj|solutionrelative:companyemployees.intrastructure.persistence\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B060B3E-AC94-4F3A-8584-DC33176F77D8}|CompanyEmployees.Core.Domain\\CompanyEmployees.Core.Domain.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees.core.domain\\repositories\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B060B3E-AC94-4F3A-8584-DC33176F77D8}|CompanyEmployees.Core.Domain\\CompanyEmployees.Core.Domain.csproj|solutionrelative:companyemployees.core.domain\\repositories\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E444365E-1E48-485E-8244-3139DC7F9B69}|Share\\Share.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\share\\datatransferobjects\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E444365E-1E48-485E-8244-3139DC7F9B69}|Share\\Share.csproj|solutionrelative:share\\datatransferobjects\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees\\logs\\log-20250627.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|solutionrelative:companyemployees\\logs\\log-20250627.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495BF0C2-615E-47A0-88CB-C23EB44778C4}|CompanyEmployees.Intrastructure.Persistence\\CompanyEmployees.Intrastructure.Persistence.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees.intrastructure.persistence\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495BF0C2-615E-47A0-88CB-C23EB44778C4}|CompanyEmployees.Intrastructure.Persistence\\CompanyEmployees.Intrastructure.Persistence.csproj|solutionrelative:companyemployees.intrastructure.persistence\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62472F15-F128-4B4A-9CCA-E25D75FE726B}|CompanyEmployees.Core.Services.Abstractions\\CompanyEmployees.Core.Services.Abstractions.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees.core.services.abstractions\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62472F15-F128-4B4A-9CCA-E25D75FE726B}|CompanyEmployees.Core.Services.Abstractions\\CompanyEmployees.Core.Services.Abstractions.csproj|solutionrelative:companyemployees.core.services.abstractions\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62472F15-F128-4B4A-9CCA-E25D75FE726B}|CompanyEmployees.Core.Services.Abstractions\\CompanyEmployees.Core.Services.Abstractions.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees.core.services.abstractions\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62472F15-F128-4B4A-9CCA-E25D75FE726B}|CompanyEmployees.Core.Services.Abstractions\\CompanyEmployees.Core.Services.Abstractions.csproj|solutionrelative:companyemployees.core.services.abstractions\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B060B3E-AC94-4F3A-8584-DC33176F77D8}|CompanyEmployees.Core.Domain\\CompanyEmployees.Core.Domain.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees.core.domain\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B060B3E-AC94-4F3A-8584-DC33176F77D8}|CompanyEmployees.Core.Domain\\CompanyEmployees.Core.Domain.csproj|solutionrelative:companyemployees.core.domain\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B060B3E-AC94-4F3A-8584-DC33176F77D8}|CompanyEmployees.Core.Domain\\CompanyEmployees.Core.Domain.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees.core.domain\\repositories\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B060B3E-AC94-4F3A-8584-DC33176F77D8}|CompanyEmployees.Core.Domain\\CompanyEmployees.Core.Domain.csproj|solutionrelative:companyemployees.core.domain\\repositories\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B060B3E-AC94-4F3A-8584-DC33176F77D8}|CompanyEmployees.Core.Domain\\CompanyEmployees.Core.Domain.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees.core.domain\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B060B3E-AC94-4F3A-8584-DC33176F77D8}|CompanyEmployees.Core.Domain\\CompanyEmployees.Core.Domain.csproj|solutionrelative:companyemployees.core.domain\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees\\companyemployees.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|solutionrelative:companyemployees\\companyemployees.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|solutionrelative:companyemployees\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|solutionrelative:companyemployees\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B060B3E-AC94-4F3A-8584-DC33176F77D8}|CompanyEmployees.Core.Domain\\CompanyEmployees.Core.Domain.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees.core.domain\\repositories\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,10 +127,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CompanyEmployees.Intrastructure.Persistence\\Migrations\\20250626200557_AddPhoneToCompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B060B3E-AC94-4F3A-8584-DC33176F77D8}|CompanyEmployees.Core.Domain\\CompanyEmployees.Core.Domain.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees.core.domain\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B060B3E-AC94-4F3A-8584-DC33176F77D8}|CompanyEmployees.Core.Domain\\CompanyEmployees.Core.Domain.csproj|solutionrelative:companyemployees.core.domain\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0B060B3E-AC94-4F3A-8584-DC33176F77D8}|CompanyEmployees.Core.Domain\\CompanyEmployees.Core.Domain.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees.core.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B060B3E-AC94-4F3A-8584-DC33176F77D8}|CompanyEmployees.Core.Domain\\CompanyEmployees.Core.Domain.csproj|solutionrelative:companyemployees.core.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -107,10 +139,6 @@
       "RelativeMoniker": "D:0:0:{495BF0C2-615E-47A0-88CB-C23EB44778C4}|CompanyEmployees.Intrastructure.Persistence\\CompanyEmployees.Intrastructure.Persistence.csproj|solutionrelative:companyemployees.intrastructure.persistence\\configurations\\companyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Intrastructure.Persistence\\Migrations\\20250626193107_InitialData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CompanyEmployees.Intrastructure.Persistence\\Migrations\\20250626193107_InitialData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|solutionrelative:companyemployees\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -119,32 +147,16 @@
       "RelativeMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|solutionrelative:companyemployees\\contextfactory\\repositorycontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Intrastructure.Persistence\\Migrations\\20250626185244_DatabaseCreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CompanyEmployees.Intrastructure.Persistence\\Migrations\\20250626185244_DatabaseCreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees\\logs\\log-20250626.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|solutionrelative:companyemployees\\logs\\log-20250626.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|solutionrelative:companyemployees\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{495BF0C2-615E-47A0-88CB-C23EB44778C4}|CompanyEmployees.Intrastructure.Persistence\\CompanyEmployees.Intrastructure.Persistence.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees.intrastructure.persistence\\migrations\\20250626193107_initialdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495BF0C2-615E-47A0-88CB-C23EB44778C4}|CompanyEmployees.Intrastructure.Persistence\\CompanyEmployees.Intrastructure.Persistence.csproj|solutionrelative:companyemployees.intrastructure.persistence\\migrations\\20250626193107_initialdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{129701E3-4F7A-4CB8-BF3B-0E7A41E84279}|LoggingService\\LoggingService.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\loggingservice\\iloggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{129701E3-4F7A-4CB8-BF3B-0E7A41E84279}|LoggingService\\LoggingService.csproj|solutionrelative:loggingservice\\iloggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{129701E3-4F7A-4CB8-BF3B-0E7A41E84279}|LoggingService\\LoggingService.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\loggingservice\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{129701E3-4F7A-4CB8-BF3B-0E7A41E84279}|LoggingService\\LoggingService.csproj|solutionrelative:loggingservice\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|solutionrelative:companyemployees\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees\\companyemployees.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{B51F0016-170D-40CC-8F38-324DB48EDD9E}|CompanyEmployees\\CompanyEmployees.csproj|solutionrelative:companyemployees\\companyemployees.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{495BF0C2-615E-47A0-88CB-C23EB44778C4}|CompanyEmployees.Intrastructure.Persistence\\CompanyEmployees.Intrastructure.Persistence.csproj|d:\\khoahoc\\asp.net-core\\companyemployees\\companyemployees.intrastructure.persistence\\migrations\\20250626185244_databasecreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495BF0C2-615E-47A0-88CB-C23EB44778C4}|CompanyEmployees.Intrastructure.Persistence\\CompanyEmployees.Intrastructure.Persistence.csproj|solutionrelative:companyemployees.intrastructure.persistence\\migrations\\20250626185244_databasecreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -154,8 +166,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 35,
+          "SelectedChildIndex": 39,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "CompanyEmployees\\MappingProfile.cs",
+              "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\MappingProfile.cs",
+              "RelativeToolTip": "CompanyEmployees\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T06:52:56.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CompanyDto.cs",
+              "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\Share\\DataTransferObjects\\CompanyDto.cs",
+              "RelativeDocumentMoniker": "Share\\DataTransferObjects\\CompanyDto.cs",
+              "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\Share\\DataTransferObjects\\CompanyDto.cs",
+              "RelativeToolTip": "Share\\DataTransferObjects\\CompanyDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T13:53:47.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "log-20250627.txt",
+              "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\logs\\log-20250627.txt",
+              "RelativeDocumentMoniker": "CompanyEmployees\\logs\\log-20250627.txt",
+              "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\logs\\log-20250627.txt",
+              "RelativeToolTip": "CompanyEmployees\\logs\\log-20250627.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-27T11:02:11.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompaniesController.cs",
+              "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Infrastructure.Presentation\\Controllers\\CompaniesController.cs",
+              "RelativeDocumentMoniker": "CompanyEmployees.Infrastructure.Presentation\\Controllers\\CompaniesController.cs",
+              "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Infrastructure.Presentation\\Controllers\\CompaniesController.cs",
+              "RelativeToolTip": "CompanyEmployees.Infrastructure.Presentation\\Controllers\\CompaniesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwBIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:21:53.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Infrastructure.Presentation\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "CompanyEmployees.Infrastructure.Presentation\\AssemblyReference.cs",
+              "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Infrastructure.Presentation\\AssemblyReference.cs",
+              "RelativeToolTip": "CompanyEmployees.Infrastructure.Presentation\\AssemblyReference.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T07:57:58.805Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -164,7 +245,7 @@
               "RelativeDocumentMoniker": "CompanyEmployees.Core.Services\\ServiceManager.cs",
               "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Core.Services\\ServiceManager.cs",
               "RelativeToolTip": "CompanyEmployees.Core.Services\\ServiceManager.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAABQAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABMAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-27T04:18:38.312Z",
               "EditorCaption": ""
@@ -177,40 +258,40 @@
               "RelativeDocumentMoniker": "CompanyEmployees.Core.Services\\EmployeeService.cs",
               "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Core.Services\\EmployeeService.cs",
               "RelativeToolTip": "CompanyEmployees.Core.Services\\EmployeeService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBUAAAAFAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwBcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-27T04:16:46.995Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "CompanyService.cs",
               "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Core.Services\\CompanyService.cs",
               "RelativeDocumentMoniker": "CompanyEmployees.Core.Services\\CompanyService.cs",
               "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Core.Services\\CompanyService.cs",
               "RelativeToolTip": "CompanyEmployees.Core.Services\\CompanyService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBQAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-27T04:08:05.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "IServiceManager.cs",
               "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Core.Services.Abstractions\\IServiceManager.cs",
               "RelativeDocumentMoniker": "CompanyEmployees.Core.Services.Abstractions\\IServiceManager.cs",
               "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Core.Services.Abstractions\\IServiceManager.cs",
               "RelativeToolTip": "CompanyEmployees.Core.Services.Abstractions\\IServiceManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-27T03:58:48.566Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "IEmployeeService.cs",
               "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Core.Services.Abstractions\\IEmployeeService.cs",
               "RelativeDocumentMoniker": "CompanyEmployees.Core.Services.Abstractions\\IEmployeeService.cs",
@@ -223,8 +304,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CompanyEmployees.Core.Services.Abstractions",
+              "DocumentIndex": 27,
+              "Title": "CompanyEmployees.Core.Services.Abstractions.csproj",
               "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Core.Services.Abstractions\\CompanyEmployees.Core.Services.Abstractions.csproj",
               "RelativeDocumentMoniker": "CompanyEmployees.Core.Services.Abstractions\\CompanyEmployees.Core.Services.Abstractions.csproj",
               "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Core.Services.Abstractions\\CompanyEmployees.Core.Services.Abstractions.csproj",
@@ -236,33 +317,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "ICompanyService.cs",
               "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Core.Services.Abstractions\\ICompanyService.cs",
               "RelativeDocumentMoniker": "CompanyEmployees.Core.Services.Abstractions\\ICompanyService.cs",
               "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Core.Services.Abstractions\\ICompanyService.cs",
               "RelativeToolTip": "CompanyEmployees.Core.Services.Abstractions\\ICompanyService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-27T03:56:13.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "RepositoryManager.cs",
               "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Intrastructure.Persistence\\RepositoryManager.cs",
               "RelativeDocumentMoniker": "CompanyEmployees.Intrastructure.Persistence\\RepositoryManager.cs",
               "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Intrastructure.Persistence\\RepositoryManager.cs",
               "RelativeToolTip": "CompanyEmployees.Intrastructure.Persistence\\RepositoryManager.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAABrAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-27T03:31:48.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "IRepositoryManager.cs",
               "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Core.Domain\\Repositories\\IRepositoryManager.cs",
               "RelativeDocumentMoniker": "CompanyEmployees.Core.Domain\\Repositories\\IRepositoryManager.cs",
@@ -275,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "EmployeeRepository.cs",
               "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Intrastructure.Persistence\\Repositories\\EmployeeRepository.cs",
               "RelativeDocumentMoniker": "CompanyEmployees.Intrastructure.Persistence\\Repositories\\EmployeeRepository.cs",
@@ -288,20 +369,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "CompanyRepository.cs",
               "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Intrastructure.Persistence\\Repositories\\CompanyRepository.cs",
               "RelativeDocumentMoniker": "CompanyEmployees.Intrastructure.Persistence\\Repositories\\CompanyRepository.cs",
               "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Intrastructure.Persistence\\Repositories\\CompanyRepository.cs",
               "RelativeToolTip": "CompanyEmployees.Intrastructure.Persistence\\Repositories\\CompanyRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-27T03:15:18.756Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 22,
               "Title": "IEmployeeRepository.cs",
               "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Core.Domain\\Repositories\\IEmployeeRepository.cs",
               "RelativeDocumentMoniker": "CompanyEmployees.Core.Domain\\Repositories\\IEmployeeRepository.cs",
@@ -314,13 +395,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "ICompanyRepository.cs",
               "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Core.Domain\\Repositories\\ICompanyRepository.cs",
               "RelativeDocumentMoniker": "CompanyEmployees.Core.Domain\\Repositories\\ICompanyRepository.cs",
               "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Core.Domain\\Repositories\\ICompanyRepository.cs",
               "RelativeToolTip": "CompanyEmployees.Core.Domain\\Repositories\\ICompanyRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-27T03:12:18.309Z",
               "EditorCaption": ""
@@ -333,14 +414,14 @@
               "RelativeDocumentMoniker": "CompanyEmployees.Intrastructure.Persistence\\RepositoryBase.cs",
               "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Intrastructure.Persistence\\RepositoryBase.cs",
               "RelativeToolTip": "CompanyEmployees.Intrastructure.Persistence\\RepositoryBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T20:59:56.857Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 26,
               "Title": "IRepositoryBase.cs",
               "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Core.Domain\\Repositories\\IRepositoryBase.cs",
               "RelativeDocumentMoniker": "CompanyEmployees.Core.Domain\\Repositories\\IRepositoryBase.cs",
@@ -353,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 29,
               "Title": "RepositoryContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Intrastructure.Persistence\\Migrations\\RepositoryContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "CompanyEmployees.Intrastructure.Persistence\\Migrations\\RepositoryContextModelSnapshot.cs",
@@ -366,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 28,
               "Title": "20250626201042_AddPhoneToCompany.cs",
               "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Intrastructure.Persistence\\Migrations\\20250626201042_AddPhoneToCompany.cs",
               "RelativeDocumentMoniker": "CompanyEmployees.Intrastructure.Persistence\\Migrations\\20250626201042_AddPhoneToCompany.cs",
@@ -379,20 +460,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 30,
               "Title": "20250626200557_AddPhoneToCompany.cs",
               "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Intrastructure.Persistence\\Migrations\\20250626200557_AddPhoneToCompany.cs",
               "RelativeDocumentMoniker": "CompanyEmployees.Intrastructure.Persistence\\Migrations\\20250626200557_AddPhoneToCompany.cs",
               "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Intrastructure.Persistence\\Migrations\\20250626200557_AddPhoneToCompany.cs",
               "RelativeToolTip": "CompanyEmployees.Intrastructure.Persistence\\Migrations\\20250626200557_AddPhoneToCompany.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBEAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T20:05:57.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-26T20:05:57.989Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 37,
               "Title": "20250626193107_InitialData.cs",
               "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Intrastructure.Persistence\\Migrations\\20250626193107_InitialData.cs",
               "RelativeDocumentMoniker": "CompanyEmployees.Intrastructure.Persistence\\Migrations\\20250626193107_InitialData.cs",
@@ -405,33 +484,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 32,
               "Title": "EmployeeConfiguration.cs",
               "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Intrastructure.Persistence\\Configurations\\EmployeeConfiguration.cs",
               "RelativeDocumentMoniker": "CompanyEmployees.Intrastructure.Persistence\\Configurations\\EmployeeConfiguration.cs",
               "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Intrastructure.Persistence\\Configurations\\EmployeeConfiguration.cs",
               "RelativeToolTip": "CompanyEmployees.Intrastructure.Persistence\\Configurations\\EmployeeConfiguration.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAywCUAAAALAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvyUAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T19:25:17.089Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "CompanyConfiguration.cs",
               "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Intrastructure.Persistence\\Configurations\\CompanyConfiguration.cs",
               "RelativeDocumentMoniker": "CompanyEmployees.Intrastructure.Persistence\\Configurations\\CompanyConfiguration.cs",
               "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Intrastructure.Persistence\\Configurations\\CompanyConfiguration.cs",
               "RelativeToolTip": "CompanyEmployees.Intrastructure.Persistence\\Configurations\\CompanyConfiguration.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBMAAAAhAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwBMAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T19:19:08.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 38,
               "Title": "20250626185244_DatabaseCreation.cs",
               "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Intrastructure.Persistence\\Migrations\\20250626185244_DatabaseCreation.cs",
               "RelativeDocumentMoniker": "CompanyEmployees.Intrastructure.Persistence\\Migrations\\20250626185244_DatabaseCreation.cs",
@@ -444,63 +523,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 35,
               "Title": "RepositoryContextFactory.cs",
               "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\ContextFactory\\RepositoryContextFactory.cs",
               "RelativeDocumentMoniker": "CompanyEmployees\\ContextFactory\\RepositoryContextFactory.cs",
               "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\ContextFactory\\RepositoryContextFactory.cs",
               "RelativeToolTip": "CompanyEmployees\\ContextFactory\\RepositoryContextFactory.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAANAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T17:57:00.514Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "RepositoryContext.cs",
               "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Intrastructure.Persistence\\RepositoryContext.cs",
               "RelativeDocumentMoniker": "CompanyEmployees.Intrastructure.Persistence\\RepositoryContext.cs",
               "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Intrastructure.Persistence\\RepositoryContext.cs",
               "RelativeToolTip": "CompanyEmployees.Intrastructure.Persistence\\RepositoryContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T17:38:59.364Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 31,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Core.Domain\\Entities\\Employee.cs",
               "RelativeDocumentMoniker": "CompanyEmployees.Core.Domain\\Entities\\Employee.cs",
               "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Core.Domain\\Entities\\Employee.cs",
               "RelativeToolTip": "CompanyEmployees.Core.Domain\\Entities\\Employee.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAkAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBMAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T17:15:02.962Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 20,
               "Title": "Company.cs",
               "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Core.Domain\\Entities\\Company.cs",
               "RelativeDocumentMoniker": "CompanyEmployees.Core.Domain\\Entities\\Company.cs",
               "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees.Core.Domain\\Entities\\Company.cs",
               "RelativeToolTip": "CompanyEmployees.Core.Domain\\Entities\\Company.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAoAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T17:07:00.353Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 36,
               "Title": "log-20250626.txt",
               "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\logs\\log-20250626.txt",
               "RelativeDocumentMoniker": "CompanyEmployees\\logs\\log-20250626.txt",
@@ -513,7 +588,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 23,
               "Title": "CompanyEmployees.http",
               "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.http",
               "RelativeDocumentMoniker": "CompanyEmployees\\CompanyEmployees.http",
@@ -526,7 +601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 25,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\appsettings.json",
               "RelativeDocumentMoniker": "CompanyEmployees\\appsettings.json",
@@ -539,7 +614,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 12,
               "Title": "LoggerManager.cs",
               "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\LoggingService\\LoggerManager.cs",
               "RelativeDocumentMoniker": "LoggingService\\LoggerManager.cs",
@@ -552,13 +627,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 11,
               "Title": "ILoggerManager.cs",
               "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\LoggingService\\ILoggerManager.cs",
               "RelativeDocumentMoniker": "LoggingService\\ILoggerManager.cs",
               "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\LoggingService\\ILoggerManager.cs",
               "RelativeToolTip": "LoggingService\\ILoggerManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T06:57:35.03Z",
               "EditorCaption": ""
@@ -566,32 +641,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 34,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "CompanyEmployees\\WeatherForecast.cs",
-              "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\WeatherForecast.cs",
-              "RelativeToolTip": "CompanyEmployees\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T16:32:21.55Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "CompanyEmployees\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "CompanyEmployees\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAzwBoAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T16:15:37.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "CompanyEmployees\\Properties\\launchSettings.json",
@@ -604,26 +653,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 24,
               "Title": "ServiceExtensions.cs",
               "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\Extensions\\ServiceExtensions.cs",
               "RelativeDocumentMoniker": "CompanyEmployees\\Extensions\\ServiceExtensions.cs",
               "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\Extensions\\ServiceExtensions.cs",
               "RelativeToolTip": "CompanyEmployees\\Extensions\\ServiceExtensions.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAYwCgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T16:11:44.555Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\Program.cs",
               "RelativeDocumentMoniker": "CompanyEmployees\\Program.cs",
-              "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\Program.cs",
-              "RelativeToolTip": "CompanyEmployees\\Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "ToolTip": "D:\\Khoahoc\\ASP.Net-Core\\CompanyEmployees\\CompanyEmployees\\Program.cs*",
+              "RelativeToolTip": "CompanyEmployees\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T16:11:22.414Z",
               "EditorCaption": ""
